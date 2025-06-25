@@ -7,26 +7,26 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		4E113BC12E0ABEBA00BF35DE /* Project12.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project12.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E113BC12E0ABEBA00BF35DE /* Project12a.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project12a.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		4E113BD32E0ABEBE00BF35DE /* Exceptions for "Project12" folder in "Project12" target */ = {
+		4E113BD32E0ABEBE00BF35DE /* Exceptions for "Project12a" folder in "Project12a" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 4E113BC02E0ABEBA00BF35DE /* Project12 */;
+			target = 4E113BC02E0ABEBA00BF35DE /* Project12a */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		4E113BC32E0ABEBA00BF35DE /* Project12 */ = {
+		4E113BC32E0ABEBA00BF35DE /* Project12a */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				4E113BD32E0ABEBE00BF35DE /* Exceptions for "Project12" folder in "Project12" target */,
+				4E113BD32E0ABEBE00BF35DE /* Exceptions for "Project12a" folder in "Project12a" target */,
 			);
-			path = Project12;
+			path = Project12a;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +45,7 @@
 		4E113BB82E0ABEBA00BF35DE = {
 			isa = PBXGroup;
 			children = (
-				4E113BC32E0ABEBA00BF35DE /* Project12 */,
+				4E113BC32E0ABEBA00BF35DE /* Project12a */,
 				4E113BC22E0ABEBA00BF35DE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 		4E113BC22E0ABEBA00BF35DE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4E113BC12E0ABEBA00BF35DE /* Project12.app */,
+				4E113BC12E0ABEBA00BF35DE /* Project12a.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +61,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4E113BC02E0ABEBA00BF35DE /* Project12 */ = {
+		4E113BC02E0ABEBA00BF35DE /* Project12a */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4E113BD42E0ABEBE00BF35DE /* Build configuration list for PBXNativeTarget "Project12" */;
+			buildConfigurationList = 4E113BD42E0ABEBE00BF35DE /* Build configuration list for PBXNativeTarget "Project12a" */;
 			buildPhases = (
 				4E113BBD2E0ABEBA00BF35DE /* Sources */,
 				4E113BBE2E0ABEBA00BF35DE /* Frameworks */,
@@ -74,13 +74,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				4E113BC32E0ABEBA00BF35DE /* Project12 */,
+				4E113BC32E0ABEBA00BF35DE /* Project12a */,
 			);
-			name = Project12;
+			name = Project12a;
 			packageProductDependencies = (
 			);
 			productName = Project10;
-			productReference = 4E113BC12E0ABEBA00BF35DE /* Project12.app */;
+			productReference = 4E113BC12E0ABEBA00BF35DE /* Project12a.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4E113BBC2E0ABEBA00BF35DE /* Build configuration list for PBXProject "Project12" */;
+			buildConfigurationList = 4E113BBC2E0ABEBA00BF35DE /* Build configuration list for PBXProject "Project12a" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4E113BC02E0ABEBA00BF35DE /* Project12 */,
+				4E113BC02E0ABEBA00BF35DE /* Project12a */,
 			);
 		};
 /* End PBXProject section */
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = SNNK28T63Z;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Project12/Info.plist;
+				INFOPLIST_FILE = Project12a/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Project 12a";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -176,7 +176,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = SNNK28T63Z;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Project12/Info.plist;
+				INFOPLIST_FILE = Project12a/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Project 12a";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -318,7 +318,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4E113BBC2E0ABEBA00BF35DE /* Build configuration list for PBXProject "Project12" */ = {
+		4E113BBC2E0ABEBA00BF35DE /* Build configuration list for PBXProject "Project12a" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4E113BD72E0ABEBE00BF35DE /* Debug */,
@@ -327,7 +327,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4E113BD42E0ABEBE00BF35DE /* Build configuration list for PBXNativeTarget "Project12" */ = {
+		4E113BD42E0ABEBE00BF35DE /* Build configuration list for PBXNativeTarget "Project12a" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4E113BD52E0ABEBE00BF35DE /* Debug */,
